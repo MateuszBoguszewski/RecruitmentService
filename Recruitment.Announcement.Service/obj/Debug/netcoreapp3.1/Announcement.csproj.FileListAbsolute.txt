@@ -1,0 +1,5 @@
+D:\ITSolutions\RecruitmentService\Announcement\obj\Debug\netcoreapp3.1\Announcement.csprojAssemblyReference.cache
+D:\ITSolutions\RecruitmentService\Announcement\obj\Debug\netcoreapp3.1\Announcement.AssemblyInfoInputs.cache
+D:\ITSolutions\RecruitmentService\Announcement\obj\Debug\netcoreapp3.1\Announcement.AssemblyInfo.cs
+D:\ITSolutions\RecruitmentService\Announcement\obj\Debug\netcoreapp3.1\Announcement.csproj.CoreCompileInputs.cache
+D:\ITSolutions\RecruitmentService\Announcement\obj\Debug\netcoreapp3.1\Announcement.MvcApplicationPartsAssemblyInfo.cache

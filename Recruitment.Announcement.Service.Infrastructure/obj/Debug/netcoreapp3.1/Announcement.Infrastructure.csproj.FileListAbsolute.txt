@@ -1,0 +1,14 @@
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\bin\Debug\netcoreapp3.1\Announcement.Application.dll
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\bin\Debug\netcoreapp3.1\Announcement.Domain.dll
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\obj\Debug\netcoreapp3.1\Announcement.Infrastructure.csprojAssemblyReference.cache
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\obj\Debug\netcoreapp3.1\Announcement.Infrastructure.AssemblyInfoInputs.cache
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\obj\Debug\netcoreapp3.1\Announcement.Infrastructure.AssemblyInfo.cs
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\bin\Debug\netcoreapp3.1\Announcement.Infrastructure.deps.json
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\bin\Debug\netcoreapp3.1\Announcement.Infrastructure.dll
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\bin\Debug\netcoreapp3.1\Announcement.Infrastructure.pdb
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\bin\Debug\netcoreapp3.1\Announcement.Application.pdb
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\bin\Debug\netcoreapp3.1\Announcement.Domain.pdb
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\obj\Debug\netcoreapp3.1\Announcement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\obj\Debug\netcoreapp3.1\Announcement.Infrastructure.csproj.CopyComplete
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\obj\Debug\netcoreapp3.1\Announcement.Infrastructure.dll
+D:\ITSolutions\RecruitmentService\Announcement.Infrastructure\obj\Debug\netcoreapp3.1\Announcement.Infrastructure.pdb

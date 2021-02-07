@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Recruitment.Announcement.Service.Application/1.0.0": {
+        "dependencies": {
+          "Recruitment.Announcement.Service.Domain": "1.0.0",
+          "RecruitmentService.Common": "1.0.0"
+        },
+        "runtime": {
+          "Recruitment.Announcement.Service.Application.dll": {}
+        }
+      },
+      "MediatR/9.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "Recruitment.Announcement.Service.Domain/1.0.0": {
+        "runtime": {
+          "Recruitment.Announcement.Service.Domain.dll": {}
+        }
+      },
+      "RecruitmentService.Common/1.0.0": {
+        "dependencies": {
+          "MediatR": "9.0.0"
+        },
+        "runtime": {
+          "RecruitmentService.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recruitment.Announcement.Service.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
+      "path": "mediatr/9.0.0",
+      "hashPath": "mediatr.9.0.0.nupkg.sha512"
+    },
+    "Recruitment.Announcement.Service.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecruitmentService.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

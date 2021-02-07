@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecruitmentService.Common", "RecruitmentService.Common\RecruitmentService.Common.csproj", "{03A22411-E42A-42C0-862D-9E83D21E07D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recruitment.Announcement.Service", "Recruitment.Announcement.Service\Recruitment.Announcement.Service.csproj", "{6DB5F742-C4AD-49BB-AABA-499B4143985C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recruitment.Announcement.Service.Application", "Recruitment.Announcement.Service.Application\Recruitment.Announcement.Service.Application.csproj", "{82110488-2489-4197-8624-39D71F124E8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recruitment.Announcement.Service.Domain", "Recruitment.Announcement.Service.Domain\Recruitment.Announcement.Service.Domain.csproj", "{BAA87C11-002F-4EEA-9AE0-AC2E7EB709DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recruitment.Announcement.Service.Infrastructure", "Recruitment.Announcement.Service.Infrastructure\Recruitment.Announcement.Service.Infrastructure.csproj", "{059F942B-EDCF-4598-B9F3-6D15DA6248B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recruitment.Announcement.Service.Test", "Recruitment.Announcement.Service.Test\Recruitment.Announcement.Service.Test.csproj", "{6C5DAE66-B57C-4493-AB92-1DD024772238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A22411-E42A-42C0-862D-9E83D21E07D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A22411-E42A-42C0-862D-9E83D21E07D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A22411-E42A-42C0-862D-9E83D21E07D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A22411-E42A-42C0-862D-9E83D21E07D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB5F742-C4AD-49BB-AABA-499B4143985C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB5F742-C4AD-49BB-AABA-499B4143985C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB5F742-C4AD-49BB-AABA-499B4143985C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB5F742-C4AD-49BB-AABA-499B4143985C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82110488-2489-4197-8624-39D71F124E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82110488-2489-4197-8624-39D71F124E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82110488-2489-4197-8624-39D71F124E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82110488-2489-4197-8624-39D71F124E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA87C11-002F-4EEA-9AE0-AC2E7EB709DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA87C11-002F-4EEA-9AE0-AC2E7EB709DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA87C11-002F-4EEA-9AE0-AC2E7EB709DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA87C11-002F-4EEA-9AE0-AC2E7EB709DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059F942B-EDCF-4598-B9F3-6D15DA6248B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059F942B-EDCF-4598-B9F3-6D15DA6248B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059F942B-EDCF-4598-B9F3-6D15DA6248B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059F942B-EDCF-4598-B9F3-6D15DA6248B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5DAE66-B57C-4493-AB92-1DD024772238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5DAE66-B57C-4493-AB92-1DD024772238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5DAE66-B57C-4493-AB92-1DD024772238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5DAE66-B57C-4493-AB92-1DD024772238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5A7C7F-63E3-46F7-9211-C2AB8B10FE1E}
+	EndGlobalSection
+EndGlobal

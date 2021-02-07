@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsMX5C3IkE2LwFiiJROeCNKoDeOt1kIJRdWG3FPX8SEHsHaI121t3WzqDX1IHtD4RR3159R+n/Q512A4Hq4ecQ==",
+  "success": true,
+  "projectFilePath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Application\\Recruitment.Announcement.Service.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

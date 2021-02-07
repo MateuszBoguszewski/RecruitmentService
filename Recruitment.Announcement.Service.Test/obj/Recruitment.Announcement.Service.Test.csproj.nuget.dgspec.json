@@ -1,0 +1,448 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Test\\Recruitment.Announcement.Service.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Application\\Recruitment.Announcement.Service.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Application\\Recruitment.Announcement.Service.Application.csproj",
+        "projectName": "Recruitment.Announcement.Service.Application",
+        "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Application\\Recruitment.Announcement.Service.Application.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Domain\\Recruitment.Announcement.Service.Domain.csproj": {
+                "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Domain\\Recruitment.Announcement.Service.Domain.csproj"
+              },
+              "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\RecruitmentService.Common\\RecruitmentService.Common.csproj": {
+                "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\RecruitmentService.Common\\RecruitmentService.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Domain\\Recruitment.Announcement.Service.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Domain\\Recruitment.Announcement.Service.Domain.csproj",
+        "projectName": "Recruitment.Announcement.Service.Domain",
+        "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Domain\\Recruitment.Announcement.Service.Domain.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Infrastructure\\Recruitment.Announcement.Service.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Infrastructure\\Recruitment.Announcement.Service.Infrastructure.csproj",
+        "projectName": "Recruitment.Announcement.Service.Infrastructure",
+        "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Infrastructure\\Recruitment.Announcement.Service.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Application\\Recruitment.Announcement.Service.Application.csproj": {
+                "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Application\\Recruitment.Announcement.Service.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Test\\Recruitment.Announcement.Service.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Test\\Recruitment.Announcement.Service.Test.csproj",
+        "projectName": "Recruitment.Announcement.Service.Test",
+        "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Test\\Recruitment.Announcement.Service.Test.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Domain\\Recruitment.Announcement.Service.Domain.csproj": {
+                "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Domain\\Recruitment.Announcement.Service.Domain.csproj"
+              },
+              "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service\\Recruitment.Announcement.Service.csproj": {
+                "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service\\Recruitment.Announcement.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extras.Moq": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service\\Recruitment.Announcement.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service\\Recruitment.Announcement.Service.csproj",
+        "projectName": "Recruitment.Announcement.Service",
+        "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service\\Recruitment.Announcement.Service.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Infrastructure\\Recruitment.Announcement.Service.Infrastructure.csproj": {
+                "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\Recruitment.Announcement.Service.Infrastructure\\Recruitment.Announcement.Service.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\RecruitmentService.Common\\RecruitmentService.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\RecruitmentService.Common\\RecruitmentService.Common.csproj",
+        "projectName": "RecruitmentService.Common",
+        "projectPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\RecruitmentService.Common\\RecruitmentService.Common.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSolutions\\Szkolenie\\RecruitmentService\\RecruitmentService.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

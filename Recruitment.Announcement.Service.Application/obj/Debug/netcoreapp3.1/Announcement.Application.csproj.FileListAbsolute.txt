@@ -1,0 +1,12 @@
+D:\ITSolutions\RecruitmentService\Announcement.Application\bin\Debug\netcoreapp3.1\Announcement.Application.deps.json
+D:\ITSolutions\RecruitmentService\Announcement.Application\bin\Debug\netcoreapp3.1\Announcement.Application.dll
+D:\ITSolutions\RecruitmentService\Announcement.Application\bin\Debug\netcoreapp3.1\Announcement.Application.pdb
+D:\ITSolutions\RecruitmentService\Announcement.Application\bin\Debug\netcoreapp3.1\Announcement.Domain.dll
+D:\ITSolutions\RecruitmentService\Announcement.Application\bin\Debug\netcoreapp3.1\Announcement.Domain.pdb
+D:\ITSolutions\RecruitmentService\Announcement.Application\obj\Debug\netcoreapp3.1\Announcement.Application.csprojAssemblyReference.cache
+D:\ITSolutions\RecruitmentService\Announcement.Application\obj\Debug\netcoreapp3.1\Announcement.Application.AssemblyInfoInputs.cache
+D:\ITSolutions\RecruitmentService\Announcement.Application\obj\Debug\netcoreapp3.1\Announcement.Application.AssemblyInfo.cs
+D:\ITSolutions\RecruitmentService\Announcement.Application\obj\Debug\netcoreapp3.1\Announcement.Application.csproj.CoreCompileInputs.cache
+D:\ITSolutions\RecruitmentService\Announcement.Application\obj\Debug\netcoreapp3.1\Announcement.Application.csproj.CopyComplete
+D:\ITSolutions\RecruitmentService\Announcement.Application\obj\Debug\netcoreapp3.1\Announcement.Application.dll
+D:\ITSolutions\RecruitmentService\Announcement.Application\obj\Debug\netcoreapp3.1\Announcement.Application.pdb
